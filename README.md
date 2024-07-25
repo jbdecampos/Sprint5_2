@@ -1,12 +1,12 @@
 # Sprint5_2
-##link para o projeto no render: https://sprint5-2-7d5r.onrender.com
+## link para o projeto no render: https://sprint5-2-7d5r.onrender.com
  Projeto da sprint 5 - segunda tentativa
 
- #Análise exploratória de dados de anúncios de vendas de carros
+ # Análise exploratória de dados de anúncios de vendas de carros
 
 O projeto utiliza Streamlit para criar uma aplicação web interativa que permite a análise exploratória de um conjunto de dados de anúncios de vendas de carros. A aplicação permite que o usuário gere gráficos interativos, como histogramas e gráficos de dispersão, para entender mwlhor os dados. 
 
-##Funcionalidades
+## Funcionalidades
 - Carregamento de um conjunto de dados CSV;
 - Criação de um histograma dos valors do hodômetro dos carros;
 - Criação de um gráfico de dispersão comparando os valores do hodômetro e os preços dos carros.
